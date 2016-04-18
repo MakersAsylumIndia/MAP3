@@ -1,25 +1,37 @@
-# MAP2
+# MAP3
 
-**Maker's Asylum Project #2**
+**Maker's Asylum Project #3**
 
-"learn to solder kit, through hole, interactive art"
+Learn a lot project
 
-1. 1 LDR, 1 LED, 1 Transistor and a few passives. 10 parts in all.
-2. 1 inch square board
-3. Build many and create a matrix for interactive art.
+***FEATURES***
 
-DISCUSSION FORUM : http://discuss.makersasylum.com/t/map2-learn-to-solder-kit-interactive-art-wall/68
+1. A handy Torch with 4 (or 3) White LED's powered by a 9V battery.
+2. Includes one fixed current limiting resistor.
+3. Includes a secondary variable trimpot (potentiometer) to allow dimming.
+
+***LEARN***
+
+1. Learn PCB design using KiCad
+2. Learn Enclosure design using FreeCAD
+3. Learn PCB Production (using Laser Cutter exposing and Ferric Chloride etching) and Manual Drilling
+4. Learn to Solder
+5. Learn 3D Printing
+
+DISCUSSION FORUM : TBD
 
 Through Hole Version
-![MAP2 top](https://github.com/MakersAsylumIndia/MAP2/blob/master/kicad/image/map2_01.png)
+![MAP3](https://github.com/MakersAsylumIndia/MAP3/blob/master/kicad/images/map3_01.png)
 
-![MAP2 bottom](https://github.com/MakersAsylumIndia/MAP2/blob/master/kicad/image/map2_03.png)
+![MAP3](https://github.com/MakersAsylumIndia/MAP3/blob/master/kicad/images/map3_04.png)
 
-SMD + Through Hole Version (MAP2_smd)
-![MAP2 top](https://github.com/MakersAsylumIndia/MAP2/blob/master/kicad/image/map2_smd_01.png)
+![MAP3](https://github.com/MakersAsylumIndia/MAP3/blob/master/kicad/images/map3_05.png)
 
-![MAP2 bottom](https://github.com/MakersAsylumIndia/MAP2/blob/master/kicad/image/map2_smd_03.png)
+![MAP3](https://github.com/MakersAsylumIndia/MAP3/blob/master/kicad/images/map3_06.png)
 
+![MAP3](https://github.com/MakersAsylumIndia/MAP3/blob/master/kicad/images/map3_07.png)
+
+![MAP3](https://github.com/MakersAsylumIndia/MAP3/blob/master/kicad/images/map3_08.png)
 
 License
 -------

@@ -33,6 +33,9 @@ Through Hole Version
 
 ![MAP3](https://github.com/MakersAsylumIndia/MAP3/blob/master/kicad/images/map3_08.png)
 
+Inspired by the PT-3000 Personal Torch as shown on Adafruit at
+https://learn.adafruit.com/pt3000-personal-torch/
+
 License
 -------
 [CERN Open Hardware Licence v1.2 ]
