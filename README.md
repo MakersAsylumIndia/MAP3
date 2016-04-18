@@ -5,11 +5,13 @@
 Learn a lot project
 
 ***FEATURES***
+
 1. A handy Torch with 4 (or 3) White LED's powered by a 9V battery.
 2. Includes one fixed current limiting resistor.
 3. Includes a secondary variable trimpot (potentiometer) to allow dimming.
 
 ***LEARN***
+
 1. Learn PCB design using KiCad
 2. Learn Enclosure design using FreeCAD
 3. Learn PCB Production (using Laser Cutter exposing and Ferric Chloride etching) and Manual Drilling
